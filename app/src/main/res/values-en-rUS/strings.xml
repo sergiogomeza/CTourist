@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tourist_Cartagena</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Title">Cartagena</string>
+    <string name="main0">Introduction</string>
+    <string name="main1">Hotels</string>
+    <string name="main2">Bars</string>
+    <string name="main3">Touristic Places</string>
+    <string name="main4">Demography</string>
+    <string name="main5">About</string>
+
+    <string name="hotel1">El Marques Hotel Boutique</string>
+    <string name="hotel1dir">Direction: Street Santo domingo</string>
+    <string name="hotel1tel">Telephone: (5)6647800</string>
+    <string name="hotel2">San Pedro Hotel Spa</string>
+    <string name="hotel2dir">Direction: Street 10#67-85</string>
+    <string name="hotel2tel">Telephone: (5)6645800</string>
+    <string name="hotel3">Hotel Casa Gloria</string>
+    <string name="hotel3dir">Direction: San pedro mártir</string>
+    <string name="hotel3tel">Telephone: (5)6600840</string>
+
+    <string name="bar1">Cafe Havana</string>
+    <string name="bar1dir">Direction: Road 10 Corner</string>
+    <string name="bar1tel">Telephone: 3145563905</string>
+    <string name="bar2">Quiebra Canto</string>
+    <string name="bar2dir">Direction: Street 24, Media Luna 8B #25-100</string>
+    <string name="bar2tel">Telephone: (5)6641372</string>
+    <string name="bar3">Tu Candela</string>
+    <string name="bar3dir">Direction: Portal de los dulces #32-25</string>
+    <string name="bar3tel">Telephone: (5)6644618</string>
+
+    <string name="touristinfo">"Know Cartagena and its differents places: "</string>
+    <string name="tourist1">The Vaults:</string>
+    <string name="tourist2">Plaza Santo Domingo:</string>
+    <string name="tourist3">Islas del Rosario:</string>
+    <string name="tourist4">Castillo de San Felipe:</string>
+    <string name="tourist5">Ciudad amurallada:</string>
+    <string name="tourist1inf">"They were built as dungeons. The cells in the dungeon now house shops, boutiques and other businesses along the stout walls protecting the old city of Cartagena, Colombia."</string>
+    <string name="tourist2inf">"Owes his name to the santo domingo church, located in one of his corners."</string>
+    <string name="tourist3inf">"Is an archipelago located off the coast of Colombia. This area was declared Natural National Park due to the necessity to preserve and protect the coral reefs and the associated ecosystems, such as the sea grass and mangroves, and the numerous species of seaweed and animals that inhabit them."</string>
+    <string name="tourist4inf">"Is a fortress in the city of Cartagena. It was built in 1536 by the Spanish during the colonial era. In 1984, UNESCO listed the castle, with the historic centre of the city of Cartagena, as a World Heritage Site."</string>
+    <string name="tourist5inf">"The Downtown area of Cartagena has varied architecture, mainly a colonial style, but republican and Italian style buildings, such as the Cathedral's bell tower, can be seen. The walls of the city were built to protect to protect their treasures."</string>
+    <string name="text_about">"Created by:\nSergio Gomez Arboleda\nsergio9210@outlook.com\nElectronic Engineering student\nUniversidad de Antioquia\n This application was made for helping each tourist that visit the city of Cartagena de indias"</string>
+    <string name="demo">"Cartagena is a city located in Colombia's caribbean coast. The port city is the fifth-largest city in Colombia and the second largest in the region, after Barranquilla. Economic activities include maritime and petrochemicals industry, as well as tourism. The city had a population of 2'180.070 divided into:\n48 percent mestizos\n24.7 percent	white people\n27 percent Afro-Descendant\n0.2 percent Indigenous peoples\n0.1 percent Romani people"</string>
+    <string name="publicidad">The sea breeze and the sunset that transform the colors of 400 years old houses enchant visitors in Cartagena. A world heritage size, this city was founded by Pedro de Heredia in 1533; the colonial architecture of its buildings is protected by the most complete set of fortifications in South America.</string>
+
+    <string name="title_activity_about">About</string>
+    <string name="buttonback">Back</string>
+    <string name="title_activity_hotels">Hotels</string>
+    <string name="title_activity_bars">Bars</string>
+    <string name="title_activity_tourism">Touristic Places</string>
+    <string name="title_activity_demography">Demography</string>
+    <string name="title_activity_vaults">The Vaults</string>
+    <string name="title_activity_domingo">Santo Domingo plaza</string>
+    <string name="title_activity_rosario">Rosario islands</string>
+    <string name="title_activity_stfelipe">San Felipe Castle</string>
+    <string name="title_activity_walledcity">Walled city</string>
+
+</resources>

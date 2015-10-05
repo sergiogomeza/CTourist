@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sergiogomeza.ctourist" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".about"
+            android:label="@string/title_activity_about" >
+        </activity>
+        <activity
+            android:name=".demography"
+            android:label="@string/title_activity_demography" >
+        </activity>
+        <activity
+            android:name=".tourism"
+            android:label="@string/title_activity_tourism" >
+        </activity>
+        <activity
+            android:name=".bars"
+            android:label="@string/title_activity_bars" >
+        </activity>
+        <activity
+            android:name=".hotels"
+            android:label="@string/title_activity_hotels" >
+        </activity>
+        <activity
+            android:name=".vaults"
+            android:label="@string/title_activity_vaults" >
+        </activity>
+        <activity
+            android:name=".domingo"
+            android:label="@string/title_activity_domingo" >
+        </activity>
+        <activity
+            android:name=".rosario"
+            android:label="@string/title_activity_rosario" >
+        </activity>
+        <activity
+            android:name=".stfelipe"
+            android:label="@string/title_activity_stfelipe" >
+        </activity>
+        <activity
+            android:name=".walledcity"
+            android:label="@string/title_activity_walledcity" >
+        </activity>
+        <activity
+            android:name=".ciudad"
+            android:label="@string/title_activity_ciudad" >
+        </activity>
+    </application>
+
+</manifest>

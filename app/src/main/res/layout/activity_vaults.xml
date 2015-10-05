@@ -1,0 +1,42 @@
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@color/green"
+    tools:context="com.sergiogomeza.ctourist.vaults">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@color/yellow">
+
+        <ImageView
+            android:layout_width="200dp"
+            android:layout_height="150dp"
+            android:layout_margin="20dp"
+            android:layout_gravity="center"
+            android:src="@drawable/smartbov2"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="30dp"
+            android:textSize="12dp"
+            android:textStyle="bold"
+            android:text="@string/tourist1inf"
+            android:textColor="@color/green"/>
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/buttonback"
+            android:layout_margin="10dp"
+            android:background="@color/green"
+            android:textColor="@color/white"
+            android:id="@+id/bvButton"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+
+</ScrollView>

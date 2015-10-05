@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="fields">
+        <item>@string/main0</item>
+        <item>@string/main1</item>
+        <item>@string/main2</item>
+        <item>@string/main3</item>
+        <item>@string/main4</item>
+        <item>@string/main5</item>
+    </string-array>
+    <string-array name="tourist_fields">
+        <item>@string/tourist1</item>
+        <item>@string/tourist2</item>
+        <item>@string/tourist3</item>
+        <item>@string/tourist4</item>
+        <item>@string/tourist5</item>
+        <item>@string/buttonback</item>
+    </string-array>
+</resources>
